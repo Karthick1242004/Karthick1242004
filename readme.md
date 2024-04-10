@@ -105,7 +105,11 @@
 <hr/>
 <br/>
 
- ![Karthick1242004's Stats](https://github-readme-stats.vercel.app/api?username=Karthick1242004&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+<p align="center">
+  <a href="https://github.com/Karthick1242004">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick1242004&theme=radical&border=7F3FBF&background=0D1117" alt="Karthick's GitHub streak"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Karthick1242004">
