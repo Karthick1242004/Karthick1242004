@@ -105,9 +105,7 @@
 <hr/>
 <br/>
 
-<p align="center">
  ![Karthick1242004's Stats](https://github-readme-stats.vercel.app/api?username=Karthick1242004&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-</p>
 
 <p align="center">
   <a href="https://github.com/Karthick1242004">
