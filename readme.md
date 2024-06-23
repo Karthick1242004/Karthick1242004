@@ -19,14 +19,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://karthickrajans.netlify.app/">Karthickrajan S</a></b>
+                <b><a target="_blank" href="https://karthickrajans.vercel.app/">Karthickrajan S</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://karthickrajans.netlify.app/">「 Google Me 」</a>
+    <a href="https://karthickrajans.vercel.app/">「 Google Me 」</a>
     <br>
     「 I am a frontend developer from <b>Salem</b> 」
     <br>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
- <a href="https://karthickrajans.netlify.app/" target="blank">
+ <a href="https://karthickrajans.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/karthickrajan-s/" target="_blank">
