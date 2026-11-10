@@ -1,0 +1,3 @@
+# Local previews written by scripts/render_readme_cards.py (STATIC=1 lands here too).
+.preview/
+__pycache__/
