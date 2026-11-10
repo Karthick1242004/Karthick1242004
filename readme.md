@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Karthick1242004"><img src="./cards/graph.svg" width="100%" alt="Contribution graph: 855 contributions on 180 days in the last year." /></a>
+<a href="https://github.com/Karthick1242004"><img src="./cards/graph.svg" width="100%" alt="Contribution graph: 856 contributions on 180 days in the last year." /></a>
 </p>
 
 <p align="center">
-<img src="./cards/activity.svg" width="100%" alt="853 contributions in the last 12 months. Current streak 1 day, longest 13 days. 179 active days. Busiest day Jul 7, 2026 with 31. Best month July 2026." />
+<img src="./cards/activity.svg" width="100%" alt="854 contributions in the last 12 months. Current streak 1 day, longest 13 days. 179 active days. Busiest day Jul 7, 2026 with 30. Best month July 2026." />
 </p>
 
 <p align="center">
