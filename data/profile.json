@@ -3,8 +3,8 @@
  "name": "karthickrajan S",
  "bio": "Founder of Caliber Tech | MERN stack | NEXT JS | CSS | Frontend Developer | Videographer | Photographer",
  "followers": 30,
- "public_repos": 83,
- "total_contributions": 856,
+ "public_repos": 84,
+ "total_contributions": 860,
  "days": [
   {
    "date": "2025-11-09",
@@ -1484,17 +1484,32 @@
   },
   {
    "date": "2026-11-13",
+   "count": 4
+  },
+  {
+   "date": "2026-11-14",
    "count": 0
   }
  ],
  "repos": {
+  "skillhangar": {
+   "description": "Local dashboard for Claude Code: every skill, plugin and MCP server on your machine, where it came from, and whether it's safe. Audit, install, update, roll back. Unofficial.",
+   "url": "https://github.com/Karthick1242004/skillhangar",
+   "homepage": "https://skillhangar.vercel.app",
+   "stars": 0,
+   "forks": 0,
+   "pushed_at": "2026-11-13T13:23:56Z",
+   "fork": false,
+   "language": "TypeScript",
+   "language_color": "#3178c6"
+  },
   "Karthick1242004": {
    "description": null,
    "url": "https://github.com/Karthick1242004/Karthick1242004",
    "homepage": null,
    "stars": 0,
    "forks": 0,
-   "pushed_at": "2026-11-12T09:50:04Z",
+   "pushed_at": "2026-11-13T09:30:50Z",
    "fork": false,
    "language": "Python",
    "language_color": "#3572A5"
